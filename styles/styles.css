@@ -1,0 +1,46 @@
+
+.basic 
+{display: flex;
+flex-direction: row-reverse;
+background-color: blanchedalmond;
+width: 980px;
+margin: 0 auto;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);}
+
+body{font-family: 'Mulish', sans-serif;
+background-color: bisque;
+}
+.infoo {margin: 10px 55px 10px 30px;} 
+
+.left-bar {font-size: 15px;
+background-color:rgb(181, 181, 181);
+margin: 10px 10px 10px 10px;
+padding: 10px;
+}
+.donguldur {margin: 0px; padding: 0px;}
+.project-info{margin-top: 40px;}
+.projects-list ::marker{color: rgb(115, 0, 255)}
+.projects-list  {
+    padding: 0px;
+    margin-left: 19px;
+}
+.project-link{margin-left: 10px;}
+
+
+
+.lisst {color: rgb(255, 255, 255); padding-bottom: 10px;} ::marker{color: rgb(0, 255, 132)}
+.photo {margin-bottom: 30px;}
+.soft {color: white;}
+.contacts {padding-bottom: 10px; color: white;}
+.skills {
+    padding-left: 20px;
+}
+.jobs {margin-top: 0px;
+padding-top: 0px;
+padding-bottom: 15px;
+padding-left: 19px;}
+.jobs ::marker{color: rgb(115, 0, 255)}
+.period {margin: 0px;
+padding-bottom: 10px;}
+.date-work {color: rgb(129, 129, 129);
+font-size: 15px;}
